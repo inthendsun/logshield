@@ -17,7 +17,7 @@
 		
 		<org.ow2.asm.version>4.2</org.ow2.asm.version>
 		<!-- 重要依赖是 provided  log4j2  2.7 版本 不要改动 -->
-		<log4j2.version>2.7</log4j2.version>
+		<log4j2.version>2.17.1</log4j2.version>
 		
 		<disruptor.version>3.3.2</disruptor.version>
 		<lombok.version>1.16.16</lombok.version>
